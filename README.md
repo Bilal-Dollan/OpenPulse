@@ -35,4 +35,12 @@ Enable developers and enterprises to build real-time applications with ease, usi
 
 ---
 
-## 🏗️ Architecture (MVP)
+## 📦 Deployment
+- Docker images for each service
+- Kubernetes Helm charts (coming soon)
+- Local development with Docker Compose
+
+---
+
+## 📜 License
+OpenPulse is licensed under the **Apache 2.0 License**.
